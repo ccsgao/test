@@ -4,6 +4,11 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * ≤‚ ‘
+ * @author gaozhichao3
+ *
+ */
 public class CollectionTest {
 	public List<Course> courses;
 	
